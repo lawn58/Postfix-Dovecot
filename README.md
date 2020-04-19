@@ -1,2 +1,2 @@
-vagrant up
-vagrant ssh client
+    vagrant up
+    vagrant ssh client
